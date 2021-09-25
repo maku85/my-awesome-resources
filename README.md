@@ -20,4 +20,5 @@ My personal collection of awesome resources around the web
 
 ## Online tools
 - [Crello](https://crello.com) - free graphic designer tool
+- [TinyPGN](https://tinypng.com) - Image compressor
 - [Vectr](https://vectr.com) - free graphics software
