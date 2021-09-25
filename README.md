@@ -19,6 +19,8 @@ My personal collection of awesome resources around the web
 - [World vector logo](https://worldvectorlogo.com) - popular brand SVG logos
 
 ## Online tools
+- [Canva](https://www.canva.com/it_it/) - graphic design platform
 - [Crello](https://crello.com) - free graphic designer tool
-- [TinyPGN](https://tinypng.com) - Image compressor
+- [Pixlr](https://pixlr.com/it/editor/) - image editor
+- [TinyPGN](https://tinypng.com) - image compressor
 - [Vectr](https://vectr.com) - free graphics software
