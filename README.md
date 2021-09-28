@@ -11,6 +11,7 @@ My personal collection of awesome resources around the web
 - [Error 404](https://error404.fun) - free illustrations for 404 pages
 - [Flaticon](https://www.flaticon.com) - free vector icons and stickers
 - [Fontjoy](https://fontjoy.com) - font combinations generator
+- [Free Logo Design](https://freelogodesign.org) - free logo generator
 - [Gradient magic](https://www.gradientmagic.com) - gallery of CSS gradients
 - [Logoipsum](https://logoipsum.com) - free placeholder logos
 - [Storyset](https://storyset.com) - free customizable illustrations
