@@ -41,7 +41,12 @@ My personal collection of awesome resources around the web
 
 ## Online tools
 - [Canva](https://www.canva.com/it_it/) - graphic design platform
+- [Clippy](https://bennettfeely.com/clippy) - CSS complex shapes generator
+- [CloudConvert](https://cloudconvert.com) - multiple formats file converter
 - [Crello](https://crello.com) - free graphic designer tool
+- [CSS generator](https://webcode.tools/generators/css) - CSS generator tools
+- [Cubic-bezier](https://cubic-bezier.com) - cubic-bezier generator
+- [Keyframes](https://keyframes.app/animate) - keyframes animations generator
 - [Pixlr](https://pixlr.com/it/editor/) - image editor
 - [Playcode](https://playcode.io) - javascript playground
 - [Renderforest](https://www.renderforest.com) - online branding tools
