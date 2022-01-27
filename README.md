@@ -1,10 +1,8 @@
-# My awesome resources
+<div align="center">
+	<img width="500" height="350" src="logo.svg" alt="Awesome">
+</div>
 
 > My personal curated list of awesome online resources.
-
-<a href="https://awesome.re">
-  <img src="https://awesome.re/badge-flat2.svg" alt="Awesome">
-</a>
 
 ## Contents  
 - [Design resources](#design-resources)
