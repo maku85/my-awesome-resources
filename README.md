@@ -1,11 +1,16 @@
 # My awesome resources
-My personal collection of awesome resources around the web
 
-##### Table of Contents  
+> My personal curated list of awesome online resources.
+
+<a href="https://awesome.re">
+  <img src="https://awesome.re/badge-flat2.svg" alt="Awesome">
+</a>
+
+## Contents  
 - [Design resources](#design-resources)
 - [Online tools](#online-tools)
 
-## Design resources
+### Design resources
 - [Blobs.app](https://blobs.app) - blobs generator
 - [Error 404](https://error404.fun) - free illustrations for 404 pages
 - [Flaticon](https://www.flaticon.com) - free vector icons and stickers
@@ -39,7 +44,7 @@ My personal collection of awesome resources around the web
   - [SVG porn](https://svgporn.com) - vector logos
   - [World vector logo](https://worldvectorlogo.com) - popular brand SVG logos
 
-## Online tools
+### Online tools
 - [Canva](https://www.canva.com/it_it/) - graphic design platform
 - [Clippy](https://bennettfeely.com/clippy) - CSS complex shapes generator
 - [CloudConvert](https://cloudconvert.com) - multiple formats file converter
