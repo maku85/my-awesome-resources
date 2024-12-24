@@ -9,14 +9,10 @@
 - [Online tools](#online-tools)
 
 ### Design resources
-- <a href="https://error404.fun" target="_blank">Error 404</a>- free illustrations for 404 pages
-- [Flaticon](https://www.flaticon.com) - free vector icons and stickers
 - [Freebiesbug](https://freebiesbug.com) - free design resources
 - [Getwaves](https://getwaves.io) - SVG wave generator
 - [Gradient magic](https://www.gradientmagic.com) - gallery of CSS gradients
 - [Hero patterns](https://www.heropatterns.com) - collection of repeatable SVG background patterns
-- [Storyset](https://storyset.com) - free customizable illustrations
-- [Streamline icons](https://app.streamlinehq.com/icons) - icon collections
 - [SVG backgrounds](https://www.svgbackgrounds.com) - collection of customizable SVG-based repeating patterns
 - [Unblast](https://unblast.com) - free design resources
 - Color sites
@@ -31,6 +27,12 @@
   - [Fontjoy](https://fontjoy.com) - font combinations generator
   - [FontSpace](https://www.fontspace.com) - free fonts
   - [Fontsquirrel](https://www.fontsquirrel.com) - legal, high quality, free fonts
+- Icons sites
+  - [Flaticon](https://www.flaticon.com) - free vector icons and stickers
+  - [Streamline icons](https://app.streamlinehq.com/icons) - icon collections
+- Illustrations sites
+  - [Error 404](https://error404.fun) - free illustrations for 404 pages
+  - [Storyset](https://storyset.com) - free customizable illustrations
 - Inspiration sites
   - [Logoinspiration](https://www.logoinspirations.co) - logo inspiration
   - [Logopond](https://logopond.com) - inspirational site & showcase
