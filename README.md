@@ -9,10 +9,9 @@
 - [Online tools](#online-tools)
 
 ### Design resources
-- [Blobs.app](https://blobs.app) - blobs generator
-- [Error 404](https://error404.fun) - free illustrations for 404 pages
+- <a href="[/path/to/page?target=_blank](https://error404.fun)" target="_blank">Error 404</a>- free illustrations for 404 pages
 - [Flaticon](https://www.flaticon.com) - free vector icons and stickers
-- [Freebiesbug](https://freebiesbug.com) - free design resources
+- [Freebiesbug](https://freebiesbug.com?target=_blank) - free design resources
 - [Getwaves](https://getwaves.io) - SVG wave generator
 - [Gradient magic](https://www.gradientmagic.com) - gallery of CSS gradients
 - [Hero patterns](https://www.heropatterns.com) - collection of repeatable SVG background patterns
