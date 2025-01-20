@@ -4,16 +4,19 @@
 
 > My personal curated list of awesome online resources.
 
-## Contents  
+## Contents
 - [Design resources](#design-resources)
 - [Online tools](#online-tools)
 
-### Design resources
-- [Freebiesbug](https://freebiesbug.com) - free design resources
-- [Getwaves](https://getwaves.io) - SVG wave generator
-- [Gradient magic](https://www.gradientmagic.com) - gallery of CSS gradients
-- [Hero patterns](https://www.heropatterns.com) - collection of repeatable SVG background patterns
-- [SVG backgrounds](https://www.svgbackgrounds.com) - collection of customizable SVG-based repeating patterns
+---
+
+### == Design resources ==
+- [Blobmaker](https://www.blobmaker.app) - blob generator
+- [Freebiesbug](https://freebiesbug.com) - selection of free design resources
+- [Get waves](https://getwaves.io) - SVG wave generator
+- [Gradient magic](https://www.gradientmagic.com) - CSS gradients gallery
+- [Hero patterns](https://www.heropatterns.com) - repeatable SVG background patterns collection
+- [SVG backgrounds](https://www.svgbackgrounds.com) - customizable SVG-based repeating patterns collection
 - [Unblast](https://unblast.com) - free design resources
 - Color sites
   - [Adobe Color](https://color.adobe.com) - color palettes creator
@@ -43,16 +46,23 @@
   - [SVG porn](https://svgporn.com) - vector logos
   - [World vector logo](https://worldvectorlogo.com) - popular brand SVG logos
 
-### Online tools
-- [Canva](https://www.canva.com/it_it/) - graphic design platform
+### == Online tools ==
+
+#### Animations
+- [Keyframes](https://keyframes.app/animate) - keyframes animations generator
+
+#### CSS generators
 - [Clippy](https://bennettfeely.com/clippy) - CSS complex shapes generator
-- [CloudConvert](https://cloudconvert.com) - multiple formats file converter
-- [Crello](https://crello.com) - free graphic designer tool
 - [CSS generator](https://webcode.tools/generators/css) - CSS generator tools
 - [Cubic-bezier](https://cubic-bezier.com) - cubic-bezier generator
-- [Keyframes](https://keyframes.app/animate) - keyframes animations generator
-- [Pixlr](https://pixlr.com/it/editor/) - image editor
+
+#### Images
+- [Pixlr](https://pixlr.com/editor/) - image editor
+- [TinyPGN](https://tinypng.com) - image compressor
+
+#### Other
+- [Canva](https://www.canva.com) - graphic design platform
 - [Playcode](https://playcode.io) - javascript playground
 - [Renderforest](https://www.renderforest.com) - online branding tools
-- [TinyPGN](https://tinypng.com) - image compressor
-- [Vectr](https://vectr.com) - free graphics software
+- [Vectr](https://vectr.com) - graphics software
+- [VistaCreate](https://create.vista.com) - free graphic designer tool
