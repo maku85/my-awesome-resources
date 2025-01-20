@@ -11,40 +11,50 @@
 ---
 
 ### == Design resources ==
-- [Blobmaker](https://www.blobmaker.app) - blob generator
 - [Freebiesbug](https://freebiesbug.com) - selection of free design resources
-- [Get waves](https://getwaves.io) - SVG wave generator
+- [Unblast](https://unblast.com) - free design resources
+
+#### Colors
+- [Adobe Color](https://color.adobe.com) - color palettes creator
+- [Color Hunt](https://colorhunt.co) - color inspiration
+- [Coolors](https://coolors.co) - color schemes generator
+- [Picular](https://picular.co) - color generator using Google's image search
+- [Uigradients](https://uigradients.com) - color gradients
+
+#### CSS
 - [Gradient magic](https://www.gradientmagic.com) - CSS gradients gallery
+
+#### Fonts
+- [Befonts](https://befonts.com) - free, high quality, fonts
+- [Dafont](https://www.dafont.com) - archive of freely downloadable fonts
+- [Fontjoy](https://fontjoy.com) - font combinations generator
+- [FontSpace](https://www.fontspace.com) - free fonts
+- [Fontsquirrel](https://www.fontsquirrel.com) - legal, high quality, free fonts
+
+#### Icons
+- [Flaticon](https://www.flaticon.com) - free vector icons and stickers
+- [Streamline icons](https://app.streamlinehq.com/icons) - icon collections
+
+#### Illustrations
+- [Error 404](https://error404.fun) - free illustrations for 404 pages
+- [Storyset](https://storyset.com) - free customizable illustrations
+
+### Images
+- [Blobmaker](https://www.blobmaker.app) - blob generator -<img align="center" width="25" height="25" src="new-label-icon.svg" alt="New">-
+- [Get waves](https://getwaves.io) - SVG wave generator
 - [Hero patterns](https://www.heropatterns.com) - repeatable SVG background patterns collection
 - [SVG backgrounds](https://www.svgbackgrounds.com) - customizable SVG-based repeating patterns collection
-- [Unblast](https://unblast.com) - free design resources
-- Color sites
-  - [Adobe Color](https://color.adobe.com) - color palettes creator
-  - [Color Hunt](https://colorhunt.co) - color inspiration
-  - [Coolors](https://coolors.co) - color schemes generator
-  - [Picular](https://picular.co) - color generator using Google's image search
-  - [Uigradients](https://uigradients.com) - color gradients
-- Font sites
-  - [Befonts](https://befonts.com) - free, high quality, fonts
-  - [Dafont](https://www.dafont.com) - archive of freely downloadable fonts
-  - [Fontjoy](https://fontjoy.com) - font combinations generator
-  - [FontSpace](https://www.fontspace.com) - free fonts
-  - [Fontsquirrel](https://www.fontsquirrel.com) - legal, high quality, free fonts
-- Icons sites
-  - [Flaticon](https://www.flaticon.com) - free vector icons and stickers
-  - [Streamline icons](https://app.streamlinehq.com/icons) - icon collections
-- Illustrations sites
-  - [Error 404](https://error404.fun) - free illustrations for 404 pages
-  - [Storyset](https://storyset.com) - free customizable illustrations
-- Inspiration sites
-  - [Logoinspiration](https://www.logoinspirations.co) - logo inspiration
-  - [Logopond](https://logopond.com) - inspirational site & showcase
-- Logo sites
-  - [Free Logo Design](https://freelogodesign.org) - free logo generator
-  - [Logocrunch](https://brandmark.io/logo-crunch) - logotype maker
-  - [Logoipsum](https://logoipsum.com) - free placeholder logos
-  - [SVG porn](https://svgporn.com) - vector logos
-  - [World vector logo](https://worldvectorlogo.com) - popular brand SVG logos
+
+#### Inspirations
+- [Logoinspiration](https://www.logoinspirations.co) - logo inspiration
+- [Logopond](https://logopond.com) - inspirational site & showcase
+
+#### Logos
+- [Free Logo Design](https://freelogodesign.org) - free logo generator
+- [Logocrunch](https://brandmark.io/logo-crunch) - logotype maker
+- [Logoipsum](https://logoipsum.com) - free placeholder logos
+- [SVG porn](https://svgporn.com) - vector logos
+- [World vector logo](https://worldvectorlogo.com) - popular brand SVG logos
 
 ### == Online tools ==
 
